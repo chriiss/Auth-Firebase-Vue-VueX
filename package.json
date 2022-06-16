@@ -1,0 +1,27 @@
+{
+  "name": "authfirebasevue",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "vite preview",
+    "build": "vite build",
+    "dev": "vite",
+    "preview": "vite preview --port 4173"
+  },
+  "dependencies": {
+    "@mdi/font": "5.9.55",
+    "firebase": "^9.8.3",
+    "roboto-fontface": "*",
+    "vue": "^3.2.36",
+    "vue-router": "^4.0.15",
+    "vue3-google-oauth2": "^1.0.6",
+    "vuetify": "^3.0.0-beta.0",
+    "vuex": "^4.0.2",
+    "webfontloader": "^1.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.3",
+    "vite": "^2.9.9",
+    "vite-plugin-vuetify": "^1.0.0-alpha.0",
+    "vue-cli-plugin-vuetify": "~2.5.1"
+  }
+}
